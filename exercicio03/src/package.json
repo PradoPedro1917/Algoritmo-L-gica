@@ -1,0 +1,12 @@
+{
+  "name": "algoritmo-l-gica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "um.js": "node .exercicio02/src/um"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
