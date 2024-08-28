@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "um.js": "node .exercicio02/src/um"
+    "exeum.js": "node .exercicio03/src/um.js"
   },
   "keywords": [],
   "author": "",
