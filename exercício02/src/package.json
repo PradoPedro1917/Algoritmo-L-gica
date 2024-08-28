@@ -1,0 +1,21 @@
+{
+  "name": "exercicio02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "um": "node .exercicio02/src/um",
+    "dois":"node .exercicio02/src/dois",
+    "tres":"node .exercicio02/src/tres",
+    "quatro":"node .exercicio02/src/quatro",
+    "cinco":"node .exercicio02/src/cinco",
+    "sexto":"node exercicio02./src/sexto",
+    "setimo":"node .exercicio02/src/setimo",
+    "oitavo":"node .exercicio02/src/oitavo",
+    "nono":"node .exercicio02/src/nono",
+    "decimo":"node .exercicio02/src/decimo",
+    "onze":"node .exercicio02/src/onze"},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
