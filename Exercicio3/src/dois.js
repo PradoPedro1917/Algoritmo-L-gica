@@ -4,5 +4,5 @@ maior = prompt("Entre com o maior valor")
 maior = parseInt(maior)
 while (menor <= maior){
     console.log(menor)
-    a = a + 1 
+    menor = menor + 1 
 }
