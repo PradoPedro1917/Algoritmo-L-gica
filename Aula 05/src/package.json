@@ -1,0 +1,22 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Ex01": "node ./src/ex01",
+    "Ex02": "node ./src/ex02",
+    "Ex03": "node ./src/ex03",
+    "Ex04": "node ./src/ex04",
+    "Ex05": "node ./src/ex05",
+    "Ex06": "node ./src/ex06",
+    "Ex07": "node ./src/ex07",
+    "Ex08": "node ./src/ex08",
+    "Ex09": "node ./src/ex09",
+    "Ex10": "node ./src/ex10",
+    "Ex11": "node ./src/Ex11"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
