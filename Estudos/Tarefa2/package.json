@@ -1,0 +1,12 @@
+{
+  "name": "tarefa2",
+  "version": "1.0.0",
+  "main": "tarefa2.js",
+  "scripts": {
+    "ex01": "node ./src/ex01"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
