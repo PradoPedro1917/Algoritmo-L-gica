@@ -1,0 +1,22 @@
+{
+  "name": "pratica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ex01": "node ./src/ex01",
+    "ex02": "node ./src/ex02",
+    "ex03": "node ./src/ex03",
+    "ex04": "node ./scr/ex04",
+    "ex05": "node ./scr/ex05",
+    "ex06": "node ./scr/ex06",
+    "ex07": "node ./scr/ex07",
+    "ex08": "node ./scr/ex08",
+    "ex09": "node ./scr/ex09",
+    "ex10": "node ./scr/ex10"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
